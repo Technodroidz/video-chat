@@ -1,0 +1,108 @@
+[04-Nov-2020 04:40:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in /home/younggeeks/public_html/videochat-app/video-chat/server/connect.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/younggeeks/public_html/videochat-app/video-chat/server/connect.php on line 22
+[16-Dec-2020 12:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getQuiz() in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php:1422
+Stack trace:
+#0 {main}
+  thrown in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 1422
+[16-Dec-2020 12:27:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getQuiz() in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php:1384
+Stack trace:
+#0 {main}
+  thrown in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 1384
+[04-Jan-2021 08:37:00 UTC] PHP Warning:  unlink(../server/uploads/upload_1609747783.zip.zip): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 614
+[04-Jan-2021 08:37:09 UTC] PHP Warning:  unlink(../server/uploads/upload_1609747070.zip.zip): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 614
+[04-Jan-2021 08:37:13 UTC] PHP Warning:  unlink(../server/uploads/manish_Test_Class_1_8_12_2020_165622_chats.php.zip): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 614
+[04-Jan-2021 08:37:18 UTC] PHP Warning:  unlink(../server/uploads/vijay_Test_Class_1_8_12_2020_142131_record_class_1_1_12_2020_173656.webm.zip): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 614
+[04-Jan-2021 08:41:17 UTC] PHP Warning:  unlink(../server/uploads/upload_1609749653.zip.zip): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 614
+[04-Jan-2021 09:21:57 UTC] PHP Warning:  unlink(../server/uploads/upload_1609750382.zip.zip): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 614
+[12-Jan-2021 12:27:37 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 274
+[13-Jan-2021 07:14:18 UTC] PHP Warning:  unlink(../server/recordings/record_manish_class_1_13_1_2021_124230.webm): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 676
+[14-Jan-2021 08:16:27 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[14-Jan-2021 08:19:00 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[14-Jan-2021 11:47:27 UTC] PHP Warning:  unlink(../server/uploads/manish_company%20room%201_14_1_2021_17164_hosts.text.txt.zip.zip): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 704
+[14-Jan-2021 11:58:09 UTC] PHP Warning:  unlink(../server/uploads/manish_company%20room%201_14_1_2021_171312_hosts.text.txt.zip.zip): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 704
+[15-Jan-2021 06:23:18 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[15-Jan-2021 07:12:35 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[15-Jan-2021 07:13:29 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[20-Jan-2021 13:04:54 UTC] PHP Warning:  unlink(../server/recordings/record_company_room_1_20_1_2021_183344.webm): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 682
+[25-Jan-2021 11:23:48 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 11:24:04 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 11:26:30 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 11:26:51 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 11:38:50 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 11:39:12 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 11:39:51 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 11:43:02 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 12:16:08 UTC] PHP Warning:  unlink(../server/uploads/upload_1611576735.zip.zip): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 738
+[25-Jan-2021 12:40:24 UTC] PHP Warning:  POST Content-Length of 13997841 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Jan-2021 12:41:03 UTC] PHP Warning:  POST Content-Length of 13997841 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Jan-2021 12:51:00 UTC] PHP Warning:  POST Content-Length of 13997837 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Jan-2021 12:51:54 UTC] PHP Warning:  POST Content-Length of 13997829 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Jan-2021 13:10:42 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 13:10:42 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 13:34:27 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 17:55:00 UTC] PHP Warning:  A non-numeric value encountered in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 280
+[25-Jan-2021 18:56:14 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/younggeeks/public_html/videochat-app/video-chat/server/saveuploadedfile.php on line 82
+[01-Feb-2021 09:44:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 2044
+[09-Feb-2021 12:42:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 93
+[10-Feb-2021 07:39:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 93
+[10-Feb-2021 07:39:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 93
+[10-Feb-2021 08:21:10 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 93
+[10-Feb-2021 08:36:28 UTC] PHP Warning:  unlink(../server/recordings/record_boradcast_1_28_1_2021_18532.webm): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 723
+[10-Feb-2021 12:23:00 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 93
+[10-Feb-2021 12:23:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 93
+[10-Feb-2021 12:35:29 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 93
+[17-Feb-2021 12:41:26 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[17-Feb-2021 12:49:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[17-Feb-2021 12:50:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[17-Feb-2021 12:53:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[17-Feb-2021 12:56:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[17-Feb-2021 12:57:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[22-Feb-2021 11:40:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1056
+[22-Feb-2021 11:45:16 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1056
+[22-Feb-2021 11:45:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1056
+[22-Feb-2021 11:45:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1056
+[26-Feb-2021 10:11:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1056
+[03-Mar-2021 07:37:22 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1058
+[03-Mar-2021 07:38:01 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1058
+[05-Mar-2021 10:02:11 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:23:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:24:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:25:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:25:54 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:28:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:32:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:48:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:49:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:53:10 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:53:21 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:53:30 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:53:54 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:54:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:54:56 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:55:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 10:56:00 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 11:06:36 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[08-Mar-2021 11:29:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1058
+[17-Mar-2021 05:40:56 UTC] PHP Warning:  unlink(../server/uploads/upload_1615959632.zip.zip): No such file or directory in /home/younggeeks/public_html/videochat-app/video-chat/server/script.php on line 814
+[17-Mar-2021 06:49:33 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[17-Mar-2021 06:49:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[17-Mar-2021 06:49:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[17-Mar-2021 06:51:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[17-Mar-2021 06:52:27 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[17-Mar-2021 06:52:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 97
+[22-Mar-2021 10:37:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[22-Mar-2021 10:52:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[13-Apr-2021 14:35:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[14-Apr-2021 14:02:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[14-Apr-2021 14:02:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[14-Apr-2021 14:05:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[14-Apr-2021 14:05:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[14-Apr-2021 14:07:57 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[14-Apr-2021 14:11:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[14-Apr-2021 14:11:23 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[07-Jul-2021 11:49:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[07-Jul-2021 11:57:41 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[11-Jul-2021 02:31:49 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060
+[11-Jul-2021 02:33:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/younggeeks/public_html/videochat-app/video-chat/server/userdash_script.php on line 1060

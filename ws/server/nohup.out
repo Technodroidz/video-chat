@@ -1,0 +1,231 @@
+app.onerror listen EADDRINUSE: address already in use 0.0.0.0:9001 Error: listen EADDRINUSE: address already in use 0.0.0.0:9001
+    at Server.setupListenHandle [as _listen2] (net.js:1280:14)
+    at listenInCluster (net.js:1328:12)
+    at doListen (net.js:1461:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:834:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+------------------------------
+[31mUnable to listen on port: 9001[0m 
+[31mhttps://localhost:9001/ is already in use. Please kill below processes using "kill PID".[0m 
+------------------------------
+
+log_console Cannot read property 'split' of undefined TypeError: Cannot read property 'split' of undefined
+    at Timeout.log_console [as _onTimeout] (/home/younggeeks/public_html/videochat-app/video-chat/ws/server/node_scripts/before-http-listen.js:46:74)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+app.onerror listen EADDRINUSE: address already in use 0.0.0.0:9001 Error: listen EADDRINUSE: address already in use 0.0.0.0:9001
+    at Server.setupListenHandle [as _listen2] (net.js:1280:14)
+    at listenInCluster (net.js:1328:12)
+    at doListen (net.js:1461:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:834:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+------------------------------
+[31mUnable to listen on port: 9001[0m 
+[31mhttps://localhost:9001/ is already in use. Please kill below processes using "kill PID".[0m 
+------------------------------
+
+log_console Cannot read property 'split' of undefined TypeError: Cannot read property 'split' of undefined
+    at Timeout.log_console [as _onTimeout] (/home/younggeeks/public_html/videochat-app/video-chat/ws/server/node_scripts/before-http-listen.js:46:74)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+app.onerror listen EADDRINUSE: address already in use 0.0.0.0:9001 Error: listen EADDRINUSE: address already in use 0.0.0.0:9001
+    at Server.setupListenHandle [as _listen2] (net.js:1280:14)
+    at listenInCluster (net.js:1328:12)
+    at doListen (net.js:1461:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:834:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+------------------------------
+[31mUnable to listen on port: 9001[0m 
+[31mhttps://localhost:9001/ is already in use. Please kill below processes using "kill PID".[0m 
+------------------------------
+
+log_console Cannot read property 'split' of undefined TypeError: Cannot read property 'split' of undefined
+    at Timeout.log_console [as _onTimeout] (/home/younggeeks/public_html/videochat-app/video-chat/ws/server/node_scripts/before-http-listen.js:46:74)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+app.onerror listen EADDRINUSE: address already in use 0.0.0.0:9001 Error: listen EADDRINUSE: address already in use 0.0.0.0:9001
+    at Server.setupListenHandle [as _listen2] (net.js:1280:14)
+    at listenInCluster (net.js:1328:12)
+    at doListen (net.js:1461:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:834:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+------------------------------
+[31mUnable to listen on port: 9001[0m 
+[31mhttps://localhost:9001/ is already in use. Please kill below processes using "kill PID".[0m 
+------------------------------
+
+log_console Cannot read property 'split' of undefined TypeError: Cannot read property 'split' of undefined
+    at Timeout.log_console [as _onTimeout] (/home/younggeeks/public_html/videochat-app/video-chat/ws/server/node_scripts/before-http-listen.js:46:74)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+app.onerror listen EADDRINUSE: address already in use 0.0.0.0:9001 Error: listen EADDRINUSE: address already in use 0.0.0.0:9001
+    at Server.setupListenHandle [as _listen2] (net.js:1280:14)
+    at listenInCluster (net.js:1328:12)
+    at doListen (net.js:1461:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:834:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+------------------------------
+[31mUnable to listen on port: 9001[0m 
+[31mhttps://localhost:9001/ is already in use. Please kill below processes using "kill PID".[0m 
+------------------------------
+
+log_console Cannot read property 'split' of undefined TypeError: Cannot read property 'split' of undefined
+    at Timeout.log_console [as _onTimeout] (/home/younggeeks/public_html/videochat-app/video-chat/ws/server/node_scripts/before-http-listen.js:46:74)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+app.onerror listen EADDRINUSE: address already in use 0.0.0.0:9001 Error: listen EADDRINUSE: address already in use 0.0.0.0:9001
+    at Server.setupListenHandle [as _listen2] (net.js:1280:14)
+    at listenInCluster (net.js:1328:12)
+    at doListen (net.js:1461:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:834:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+------------------------------
+[31mUnable to listen on port: 9001[0m 
+[31mhttps://localhost:9001/ is already in use. Please kill below processes using "kill PID".[0m 
+------------------------------
+
+log_console Cannot read property 'split' of undefined TypeError: Cannot read property 'split' of undefined
+    at Timeout.log_console [as _onTimeout] (/home/younggeeks/public_html/videochat-app/video-chat/ws/server/node_scripts/before-http-listen.js:46:74)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
+
+
+Socket.io is listening at:
+[32m	https://localhost:9001/[0m
+Your web-browser (HTML file) MUST set this line:
+[32m	connection.socketURL = "https://localhost:9001/";[0m
+For more help:  [33mnode server.js --help[0m
+
+
